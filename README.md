@@ -1,6 +1,6 @@
 **DE⫶TR**: End-to-End Object Detection with Transformers
 ========
-my detr test
+my test detr
 
 [![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB)](https://opensource.fb.com/support-ukraine)
 
